@@ -1,3 +1,5 @@
 ### Cheat sheets
 - python
-- lubridate
+  - begineers python
+- R
+  - lubridate
