@@ -11,6 +11,8 @@
   - [ ] [rmarkdown](https://github.com/lc4695/CheatSheet/blob/main/Dynamic%20documents%20with%20rmarkdown%20cheatsheet.pdf) from RStudio Cheatsheets
   - [ ] [forcats](https://github.com/lc4695/CheatSheet/blob/main/Factors%20with%20forcats%20cheatsheet.pdf) from RStudio Cheatsheets
   - [ ] [stringr](https://github.com/lc4695/CheatSheet/blob/main/String%20manipulation%20with%20stringr%20cheatsheet.pdf) from RStudio Cheatsheets
+- Latex
+  - [ ] [Latex](https://github.com/lc4695/CheatSheet/blob/main/Latex/Latex.pdf)
 
 ### Resource
 [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
