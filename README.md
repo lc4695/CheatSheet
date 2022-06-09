@@ -12,7 +12,7 @@
   - [ ] [forcats](https://github.com/lc4695/CheatSheet/blob/main/Factors%20with%20forcats%20cheatsheet.pdf) from RStudio Cheatsheets
   - [ ] [stringr](https://github.com/lc4695/CheatSheet/blob/main/String%20manipulation%20with%20stringr%20cheatsheet.pdf) from RStudio Cheatsheets
 - Latex
-  - [ ] [Latex](https://github.com/lc4695/CheatSheet/blob/main/Latex/Latex.pdf)
+  - [ ] [Latex Cheat Sheet]()
   - [ ] [A quick guide to LATEX]()
 
 ### Resource
