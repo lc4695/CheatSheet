@@ -13,6 +13,7 @@
   - [ ] [stringr](https://github.com/lc4695/CheatSheet/blob/main/String%20manipulation%20with%20stringr%20cheatsheet.pdf) from RStudio Cheatsheets
 - Latex
   - [ ] [Latex](https://github.com/lc4695/CheatSheet/blob/main/Latex/Latex.pdf)
+  - [ ] [A quick guide to LATEX]()
 
 ### Resource
 [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
