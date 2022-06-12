@@ -17,3 +17,4 @@
 
 ### Resource
 [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+[Datacamp](https://www.datacamp.com/cheat-sheet)
