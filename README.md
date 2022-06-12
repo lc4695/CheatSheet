@@ -16,5 +16,5 @@
   - [ ] [A quick guide to LATEX]()
 
 ### Resource
-[RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+[RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)  
 [Datacamp](https://www.datacamp.com/cheat-sheet)
