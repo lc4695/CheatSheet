@@ -23,7 +23,9 @@
   - [ ] [forcats](https://github.com/lc4695/CheatSheet/blob/main/Factors%20with%20forcats%20cheatsheet.pdf) from RStudio Cheatsheets
   - [ ] [stringr](https://github.com/lc4695/CheatSheet/blob/main/String%20manipulation%20with%20stringr%20cheatsheet.pdf) from RStudio Cheatsheets
 ### SQL
-  - [ ]()
+  - [SQL Basics Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/SQL/SQL%20Basics%20Cheat%20Sheet.pdf) from LearnSQL.com
+  - [SQL JOINs Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/SQL/SQL%20JOINs%20Cheat%20Sheet.pdf) from LearnSQL.com
+  - [SQL Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/SQL/SQL%20Cheat%20Sheet.pdf) from SQL Tutorial
 ### Tableau
   - [ ]()
 ### Latex
