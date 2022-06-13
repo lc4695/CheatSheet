@@ -10,7 +10,7 @@
 
 ## Cheat sheets
 ### Python
-  - [ ] [Beginners Python Cheat Sheets]([https://github.com/lc4695/CheatSheet/blob/main/beginners-python-cheat-sheets.pdf](https://github.com/lc4695/CheatSheet/blob/main/Python/Beginners%20Python%20Cheat%20Sheets.pdf)) from Python Crash Course
+  - [ ] [Beginners Python Cheat Sheets](https://github.com/lc4695/CheatSheet/blob/main/Python/Beginners%20Python%20Cheat%20Sheets.pdf) from Python Crash Course
 ### R
 #### Tidyverse
   - [ ] [lubridate](https://github.com/lc4695/CheatSheet/blob/main/Dates%20and%20times%20with%20lubridate%20Cheat%20Sheet.pdf) from RStudio Cheatsheets, Data Analysis with R Programming (Coursera)
