@@ -1,4 +1,4 @@
-# Table of content
+# Table of contents
 - [Cheat sheets](#cheat-sheets)
   * [Python](#python)
   * [R](#r)
@@ -34,4 +34,4 @@
 
 ## Resource
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)  
-- [Datacamp](https://www.datacamp.com/cheat-sheet)
+- [Datacamp Data Science Cheat Sheets](https://www.datacamp.com/cheat-sheet)
