@@ -27,7 +27,7 @@
   - [ ] [SQL JOINs Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/SQL/SQL%20JOINs%20Cheat%20Sheet.pdf) from LearnSQL.com
   - [ ] [SQL Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/SQL/SQL%20Cheat%20Sheet.pdf) from SQL Tutorial
 ### Tableau
-  - [ ]()
+  - [Tableau Basics Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/Tableau/Tableau%20Basics%20Cheat%20Sheet.pdf) from Datacamp
 ### Latex
   - [ ] [Latex Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/Latex/Latex%20Cheat%20Sheet.pdf)
   - [ ] [A quick guide to LATEX](https://github.com/lc4695/CheatSheet/blob/main/Latex/A%20quick%20guide%20to%20LATEX.pdf)
