@@ -5,7 +5,6 @@
     + [Tidyverse](#tidyverse)
   * [SQL](#sql)
   * [Tableau](#tableau)
-  * [Latex](#latex)
 - [Resource](#resource)
 
 ## Cheat sheets
@@ -30,9 +29,7 @@
   - [ ] [SQL Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/SQL/SQL%20Cheat%20Sheet.pdf) from SQL Tutorial
 ### Tableau
   - [ ] [Tableau Basics Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/Tableau/Tableau%20Basics%20Cheat%20Sheet.pdf) from Datacamp
-### Latex
-  - [ ] [Latex Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/Latex/Latex%20Cheat%20Sheet.pdf)
-  - [ ] [A quick guide to LATEX](https://github.com/lc4695/CheatSheet/blob/main/Latex/A%20quick%20guide%20to%20LATEX.pdf)
+
 
 ## Resource
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)  
