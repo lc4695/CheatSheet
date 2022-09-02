@@ -1,16 +1,13 @@
 # Table of contents
-- [Tools](#tools)
+- [Cheat Sheet](#cheat-sheets)
   * [Python](#python)
   * [R](#r)
     + [Tidyverse](#tidyverse)
   * [SQL](#sql)
   * [Tableau](#tableau)
-- [Others](#others)
-  * [Quality Control](#quality-control)
-  * [Lean](#lean)
 - [Resource](#resource)
 
-## Tools
+## Cheat Sheets
 ### Python
 | Status | Name | Resource |
 | ---|---|---|
@@ -47,18 +44,6 @@
 | Status | Name | Resource |
 | ---|---|---|
 | <li>- [ ] </li> | [Tableau Basics Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/Tableau/Tableau%20Basics%20Cheat%20Sheet.pdf) | Datacamp
----
-## Others
-
-### Quality Control
-| Status | Name | Resource |
-| ---|---|---|
-| <li>- [ ] </li> | [Lean Basics Cheat Sheet]((https://github.com/lc4695/CheatSheet/blob/main/Lean/Lean%20Cheat%20Sheet.pdf)) | 
-
-### Lean
-| Status | Name | Resource |
-| ---|---|---|
-| <li>- [ ] </li> | [Lean Basics Cheat Sheet]((https://github.com/lc4695/CheatSheet/blob/main/Lean/Lean%20Cheat%20Sheet.pdf)) | 
 
 ---
 ## Resource
