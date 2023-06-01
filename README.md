@@ -12,6 +12,10 @@
 | Status | Name | Resource |
 | ---|---|---|
 | <li>- [ ] </li> | [Beginners Python Cheat Sheets](https://github.com/lc4695/CheatSheet/blob/main/Python/Beginners%20Python%20Cheat%20Sheets.pdf) | Python Crash Course
+| <li>- [ ] </li> | [Data Wrangling Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/Python/Data%20Wrangling%20Cheat%20Sheet.pdf) | DataCamp
+| <li>- [ ] </li> | [Numpy Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/Python/Numpy%20Cheat%20Sheet.pdf) | DataCamp
+| <li>- [ ] </li> | [Pandas Cheat Sheet](https://github.com/lc4695/CheatSheet/blob/main/Python/Pandas%20Cheat%20Sheet.pdf) | DataCamp
+| <li>- [ ] </li> | [Python Cheat Sheet for Beginners](https://github.com/lc4695/CheatSheet/blob/main/Python/Python%20Cheat%20Sheet%20for%20Beginners.pdf) | DataCamp
 
 ### R
 #### Tidyverse
