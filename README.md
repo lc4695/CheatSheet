@@ -30,6 +30,8 @@
 | <li>- [ ] </li> | [rmarkdown](https://github.com/lc4695/CheatSheet/blob/main/Dynamic%20documents%20with%20rmarkdown%20cheatsheet.pdf) | RStudio Cheatsheets
 | <li>- [ ] </li> | [forcats](https://github.com/lc4695/CheatSheet/blob/main/Factors%20with%20forcats%20cheatsheet.pdf) | RStudio Cheatsheets
 | <li>- [ ] </li> | [stringr](https://github.com/lc4695/CheatSheet/blob/main/String%20manipulation%20with%20stringr%20cheatsheet.pdf) | RStudio Cheatsheets
+| <li>- [ ] </li> | [Tidyverse for Beginners](https://github.com/lc4695/CheatSheet/blob/main/String%20manipulation%20with%20stringr%20cheatsheet.pdf) | DataCamp
+
 
 
 ---
